@@ -26,9 +26,3 @@ Backend:
 
 ---
 
-## Setup Instructions
-
-### Backend
-```bash
-cd Learnsy-backend
-npm install
